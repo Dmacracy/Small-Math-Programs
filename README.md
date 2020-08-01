@@ -12,5 +12,9 @@
  
  ### Collatz onjecture Exploration
  
- ![Stop Times]('Stop Time.png')
+ ![Stop Times](Stop_Time.png)
+ 
+ ### Cycloids
+ 
+ ![cycloid](cycloid.png)
  
