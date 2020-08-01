@@ -10,7 +10,7 @@
  ![5](5_red.png)
  ![6](6.png)
  
- ### Collatz onjecture Exloation
+ ### Collatz onjecture Exploration
  
- ![Stop Times](Stop Time.png)
+ ![Stop Times]('Stop Time.png')
  
