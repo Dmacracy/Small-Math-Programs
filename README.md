@@ -10,11 +10,11 @@
  ![5](5_red.png)
  ![6](6.png)
  
- ### Collatz onjecture Exploration
+ ### Collatz Conjecture Exploration
  
  ![Stop Times](Stop_Time.png)
  
  ### Cycloids
  
- ![cycloid](cycloid.png)
+ ![cycloid](cycloids.png)
  
