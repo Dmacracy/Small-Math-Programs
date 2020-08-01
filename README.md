@@ -14,7 +14,9 @@
  
  ![Stop Times](Stop_Time.png)
  
- ### Cycloids
+ ### Cycloids and Roses
  
  ![cycloid](cycloids.png)
+ ![tile](tile3.png)
+ ![plague](plague.png)
  
